@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*- 
-#setup 8 函数-自定义函数
+#setup 9 函数-自定义函数
 def my_abs(x):
 	if x>0:
 		return x
@@ -23,5 +23,3 @@ def move(x,y,step,angle=0):
 
 print(move(3,4,3,30))#ython的函数返回多值其实就是返回一个tuple
 
-def quadratic(a,b,c):
-	if 
